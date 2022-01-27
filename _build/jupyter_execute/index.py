@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# # About me
+# # Home
+# 
+# ## About me
 # 
 # I'm just a guy who loves solving puzzles and searching for patterns which led me to studying and soon to be working in the field of cyber security analysis. I'm always looking for more data to help uncover trends and gain knowledge about my environment so that I can help protect it.
 # 
