@@ -9,10 +9,14 @@
 # 
 # I'm also an avid amateur sysadmin with my own homelab where I self host a number of services used by friends and family.
 # 
-# If you've got a role you think I may be good for get in touch (hello@ryanwarnock.me).
+# If you've got a role you think I may be good for get in touch.
 # 
 # ## Professional and academic accomplishments
 # 
 # - High distinction grade average
 # - Selected for 2022 Australian Defence Force Cyber Gap Program
-# - Edith Cowan Universtity peer mentor
+# - Edith Cowan University peer mentor
+# 
+# ## Contact
+# 
+# You can get in contact by emailing me at hello@ryanwarnock.me
