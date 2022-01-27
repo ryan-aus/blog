@@ -13,11 +13,12 @@
 # 
 # ## Professional and academic accomplishments
 # 
-# ![cybergap.jpg](cybergap.jpg)
+# ![ecu.png](ecu.png)![cybergap.jpg](cybergap.jpg)![rotary.png](rotary.png)
 # 
-# - High distinction grade average
-# - Selected for 2022 Australian Defence Force [Cyber Gap Program](https://www.digitalprofession.gov.au/cybergap)
-# - Edith Cowan University [peer mentor](https://www.ecu.edu.au/careers-and-employability-services/mentoring/ecu-peer-mentoring-program/mentors)
+# - High distinction grade average at [Edith Cowan University](https://www.ecu.edu.au/) (ECU)
+# - Selected for 2022 Australian Defence Force (ADF) [Cyber Gap Program](https://www.digitalprofession.gov.au/cybergap)
+# - ECU [peer mentor](https://www.ecu.edu.au/careers-and-employability-services/mentoring/ecu-peer-mentoring-program/mentors)
+# - [Rotary Youth Leadership Award](https://www.rotary.org/en/our-programs/rotary-youth-leadership-awards) recipient
 # 
 # ## Contact
 # 
