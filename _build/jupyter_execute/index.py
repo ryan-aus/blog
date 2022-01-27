@@ -13,6 +13,8 @@
 # 
 # ## Professional and academic accomplishments
 # 
+# ![cybergap.jpg](cybergap.jpg)
+# 
 # - High distinction grade average
 # - Selected for 2022 Australian Defence Force Cyber Gap Program
 # - Edith Cowan University peer mentor
