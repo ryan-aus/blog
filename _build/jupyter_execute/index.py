@@ -16,8 +16,8 @@
 # ![cybergap.jpg](cybergap.jpg)
 # 
 # - High distinction grade average
-# - Selected for 2022 Australian Defence Force Cyber Gap Program
-# - Edith Cowan University peer mentor
+# - Selected for 2022 Australian Defence Force [Cyber Gap Program](https://www.digitalprofession.gov.au/cybergap)
+# - Edith Cowan University [peer mentor](https://www.ecu.edu.au/careers-and-employability-services/mentoring/ecu-peer-mentoring-program/mentors)
 # 
 # ## Contact
 # 
