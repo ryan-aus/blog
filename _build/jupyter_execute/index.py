@@ -9,7 +9,7 @@
 # 
 # I'm also an avid amateur sysadmin with my own homelab where I self host a number of services used by friends and family.
 # 
-# If you've got a role you think I may be good for get in touch.
+# If you've got a role you think I may be good for, please get in touch (see contact below).
 # 
 # ## Professional and academic accomplishments
 # 
