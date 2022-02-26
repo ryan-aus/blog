@@ -9,11 +9,13 @@
 # 
 # I'm also an avid amateur sysadmin with my own homelab where I self host a number of services used by friends and family.
 # 
+# While you're here, stop and have a look at some of my [blog](Blog/Blog) posts.
+# 
 # If you've got a role you think I may be good for, please get in touch (see contact below).
 # 
 # ## Professional and academic accomplishments
 # 
-# ![ecu.png](ecu.png)![cybergap.jpg](cybergap.jpg)![rotary.png](rotary.png)
+# ![ecu.png](images/ecu.png)![cybergap.jpg](images/cybergap.jpg)![rotary.png](images/rotary.png)
 # 
 # - High distinction grade average at [Edith Cowan University](https://www.ecu.edu.au/) (ECU)
 # - Selected for 2022 Australian Defence Force (ADF) [Cyber Gap Program](https://www.digitalprofession.gov.au/cybergap)
@@ -23,3 +25,5 @@
 # ## Contact
 # 
 # You can get in contact by emailing me at hello@ryanwarnock.me
+
+# 

@@ -3,7 +3,7 @@
 
 title: Ryan Warnock
 author: Ryan Warnock - hello@ryanwarnock.me
-logo: blog_logo.png
+logo: images/blog_logo.png
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
@@ -20,13 +20,13 @@ bibtex_bibfiles:
   - references.bib
 
 # Information about where the book exists on the web
-repository:
-  url: https://github.com/ryan-aus/blog  # Online location of your book
-  branch: main  # Which branch of the repository should be used when creating links (optional)
+#repository:
+#  url: https://github.com/ryan-aus/blog  # Online location of your book
+#  branch: main  # Which branch of the repository should be used when creating links (optional)
 
 # Add GitHub buttons to your book
 # See https://jupyterbook.org/customize/config.html#add-a-link-to-your-repository
 html:
-  favicon: favicon.ico
-  use_issues_button: true
-  use_repository_button: true
+  favicon: images/favicon.ico
+  use_issues_button: false
+  use_repository_button: false

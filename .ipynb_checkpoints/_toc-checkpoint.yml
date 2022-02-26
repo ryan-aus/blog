@@ -1,4 +1,8 @@
-# Table of content
-# Learn more at https://jupyterbook.org/customize/toc.html
-#
-- file: index
+format: jb-book
+root: index
+
+parts:
+    - chapters:
+        - file: Blog/Blog
+          sections:
+          - file: Blog/260222
