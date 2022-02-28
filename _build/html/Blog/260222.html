@@ -332,14 +332,23 @@ The 720p videos are structured <code class="docutils literal notranslate"><span 
 </div>
 <div class="section" id="step-3-just-fix-the-mistakes-don-t-learn-from-them">
 <h2>Step 3 - Just fix the mistakes, don’t learn from them<a class="headerlink" href="#step-3-just-fix-the-mistakes-don-t-learn-from-them" title="Permalink to this headline">¶</a></h2>
-<p><strong>After something has caused you multiple issues don’t stop and reconsider your approach</strong></p>
+<p><strong>After something has caused you multiple issues, don’t stop and reconsider your approach</strong></p>
 <p>Now that I know Tdarr already takes care of the directory structure for me all I need to do is move the temp directory contents into the 720p directory. I’ll set up an rsync move command on a systemd timer to do it every minute.</p>
-<p>But wait… if Tdarr lets you choose the output directory and then even puts the output into the correct directory structure why do I even need this temp directory and the rsync move command? Why not just point the output of Tdarr to the 720p directory?</p>
+<p>But wait… if Tdarr lets you choose the output directory and then even puts the output into the correct directory structure, why do I even need this temp directory and the rsync move command? Why not just point the output of Tdarr to the 720p directory?</p>
 <p>It wasn’t until this point that I realised just how badly I had biffed this whole process.</p>
 </div>
 <div class="section" id="conclusion">
 <h2>Conclusion<a class="headerlink" href="#conclusion" title="Permalink to this headline">¶</a></h2>
-<p>I had a relatively simple task. Convert a batch of 4K and 1080p videos into 720p. I managed to overcomplicate and waste my time because I made assumptions and then failed to recognise mistakes and then repeated it. In the future I will definitely be trying to avoid making these mistakes again.</p>
+<p>I had a relatively simple task. Convert a batch of 4K and 1080p videos into 720p. I managed to overcomplicate and waste my time because I made assumptions and then failed to recognise mistakes and then repeated it.</p>
+<p>In the future I plan on avoiding these mistakes by asking myself two questions:</p>
+<ul class="simple">
+<li><p>Why am I doing this?</p></li>
+</ul>
+<p>and then more importantly,</p>
+<ul class="simple">
+<li><p>What is the evidence that this actually needs to be done?</p></li>
+</ul>
+<p>I had a good reason to write those scripts because I thought I had a problem. If I had tried to find evidence that I actually had that problem and I needed those scripts (by just doing a test run) I quickly would have realised it was all unnecessary.</p>
 <p>On a positive note, I was able to practice my bash and python skills so it wasn’t all for nothing.</p>
 </div>
 </div>
