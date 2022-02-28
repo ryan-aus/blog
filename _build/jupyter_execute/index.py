@@ -5,7 +5,7 @@
 # 
 # ## About me
 # 
-# I'm just a guy who loves solving puzzles and searching for patterns which led me to studying and soon to be working in the field of cyber security analysis. I'm always looking for more data to help uncover trends and gain knowledge about my environment so that I can help protect it.
+# I enjoy solving puzzles, uncovering patterns and working with IT systems. This has led me to studying, and soon to be working in the field of cyber security analysis. I'm always looking for more data to help uncover trends and gain knowledge about my environment so that I can help protect it.
 # 
 # I'm also an avid amateur sysadmin with my own homelab where I self host a number of services used by friends and family.
 # 
@@ -25,5 +25,3 @@
 # ## Contact
 # 
 # You can get in contact by emailing me at hello@ryanwarnock.me
-
-# 
